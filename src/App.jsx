@@ -1,8 +1,8 @@
-//import Header from './components/Header.jsx';
-import Hero from './components/Hero.jsx';
-import Services from './components/Services.jsx';
+import Header from './components/header.jsx';
+import Hero from './components/hero.jsx';
+import Services from './components/services.jsx';
 import Student from './components/Student.jsx';
-//import Footer from './components/Footer.jsx';
+import Footer from './components/footer.jsx';
 
 const App = () => (
   <div className="font-sans">

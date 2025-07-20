@@ -1,4 +1,4 @@
-//import Navigation from './Navigation';
+import Navigation from './navigation';
 
 const Header = () => (
   <header className="bg-blue-700 text-white text-center py-6 shadow-md">
